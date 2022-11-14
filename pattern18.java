@@ -1,7 +1,7 @@
 import java.util.*;
 public class pattern18 {
         public static void main(String[] args) {
-            System.out.println("enter the value for which pattern is to be printed");
+            System.out.println("enter the ");
             Scanner sc = new Scanner(System.in);
             int n = sc.nextInt();
             int count;
